@@ -1,0 +1,7 @@
+{
+  "name": "webview-input-bug",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
